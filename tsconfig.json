@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ESNext",
+    "strict": true,
+    "jsx": "preserve",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowJs": true,
+    "outDir": "./public/js",
+    "rootDir": "./resources/js"
+  },
+  "include": ["resources/js/**/*"],
+  "exclude": ["node_modules"]
+}
