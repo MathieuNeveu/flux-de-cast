@@ -1,0 +1,5 @@
+"scripts": {
+    "lint": ["php -l app", "php -l config", "php -l database", "php -l routes"],
+    "fix-cs": ["php-cs-fixer fix --dry-run"],
+    "test": ["phpunit"]
+}
