@@ -10,7 +10,8 @@ git clone https://github.com/ton-username/nom-du-projet.git
 cd nom-du-projet
 composer install
 cp .env.example .env
-php artisan key\:generate ```
+php artisan key\:generate
+```
 
 ## Contribution
-Les pull requests sont les bienvenues ! Voir CONTRIBUTING.md.
+Les pull requests sont les bienvenues ! Voir [CONTRIBUTING.md](CONTRIBUTING.md).
