@@ -14,4 +14,4 @@ php artisan key\:generate
 ```
 
 ## Contribution
-Les pull requests sont les bienvenues ! Voir [CONTRIBUTING.md](CONTRIBUTING.md).
+Les issues & pull requests sont les bienvenues ! Voir [CONTRIBUTING.md](CONTRIBUTING.md).
